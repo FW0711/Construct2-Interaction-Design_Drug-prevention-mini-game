@@ -4,7 +4,7 @@
 **這是一款使用 Construct 2 開發的 HTML5 網頁互動微遊戲。歡迎點擊下方連結線上遊玩！
 An HTML5 interactive mini-game developed with Construct 2. Click the link below to play online!**
 
-<small>👉 **[🎮 點此立即線上遊玩 / Click Here to Play Online](https://fw0711.github.io/Construct2-Interaction-Design_Drug-prevention-mini-game/)
+<a href="貼上你的GitHub_Pages網址" target="_blank" style="font-size: 13px; padding: 5px 10px; background-color: #2ea44f; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">🎮 點此立即線上遊玩 / Click Here to Play Online</a>
 ---
 
 ## 🎬 遊戲演示影片 / Demo Video
