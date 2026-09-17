@@ -1,16 +1,16 @@
-# 🎮 互動設計：反毒小遊戲 (Construct 2)
+# 🎮 互動設計：反毒微遊戲 (Construct 2)
 > **Anti-Drug Interactive Mini-Game**
 
-**這是一款使用 Construct 2 開發的 HTML5 網頁互動微遊戲。歡迎點擊下方連結線上遊玩！
-An HTML5 interactive mini-game developed with Construct 2. Click the link below to play online!**
+這是一款使用 Construct 2 開發的 HTML5 網頁互動微遊戲。歡迎點擊下方連結線上遊玩！
+An HTML5 interactive mini-game developed with Construct 2. Click the link below to play online!
 
-👉 **[🎮 點此立即線上遊玩 / Click Here to Play Online]https://fw0711.github.io/Construct2-Interaction-Design_Drug-prevention-mini-game/
+👉 **[🎮 點此立即線上遊玩 / Click Here to Play Online](https://fw0711.github.io/Construct2-Interaction-Design_Drug-prevention-mini-game/)**
+
 ---
 
 ## 🎬 遊戲演示影片 / Demo Video
 
-
-https://github.com/user-attachments/assets/b5fc92f9-f5cd-4e99-b9d1-6a629422dec0
+<!-- 💡 請直接將 MP4 影片檔案拖曳至下方，GitHub 會自動生成影片代碼 / Drag & drop your MP4 file below -->
 
 
 ---
@@ -53,6 +53,5 @@ This project is an HTML5 interactive mini-game designed for anti-drug education,
 
 ---
 
-
 ## 📄 專案企劃與設計文件 / Documentation
-* [📄 點此線上查看專案設計書 PDF / View Project Proposal (PDF)][Game Design Description.pdf](https://github.com/user-attachments/files/32318968/Game.Design.Description.pdf)
+* [📄 點此線上查看專案企劃書 PDF / View Project Proposal (PDF)](./game_document.pdf)
