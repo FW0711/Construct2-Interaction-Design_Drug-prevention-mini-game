@@ -1,4 +1,4 @@
-# 🎮 互動設計：反毒微遊戲 (Construct 2)
+# 🎮 互動設計：反毒小遊戲 (Construct 2)
 > **Anti-Drug Interactive Mini-Game**
 
 這是一款使用 Construct 2 開發的 HTML5 網頁互動微遊戲。歡迎點擊下方連結線上遊玩！
