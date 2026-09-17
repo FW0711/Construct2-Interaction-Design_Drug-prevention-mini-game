@@ -58,6 +58,6 @@ This project is an HTML5 interactive mini-game designed for anti-drug education,
 ---
 
 ## 📄 專案企劃與設計文件 / Documentation
-* [📄 點此線上查看 / 下載專案企劃書 PDF](./Game_Design_Description.pdf)
+* [📄 點此線上查看 / 下載專案企劃書 PDF](./Game_%20Design_%20Description.pdf)
 
 
