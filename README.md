@@ -11,6 +11,11 @@ An HTML5 interactive mini-game developed with Construct 2. Click the link below 
 ## 🎬 遊戲演示影片 / Demo Video
 
 <!-- 💡 請直接將 MP4 影片檔案拖曳至下方，GitHub 會自動生成影片代碼 / Drag & drop your MP4 file below -->
+[Game Design Description.pdf](https://github.com/user-attachments/files/32319152/Game.Design.Description.pdf)
+
+
+https://github.com/user-attachments/assets/8839fccc-03cf-462d-ae88-14c15cebd87f
+
 
 
 ---
@@ -55,3 +60,5 @@ This project is an HTML5 interactive mini-game designed for anti-drug education,
 
 ## 📄 專案企劃與設計文件 / Documentation
 * [📄 點此線上查看專案企劃書 PDF / View Project Proposal (PDF)](./game_document.pdf)
+[Game Design Description.pdf](https://github.com/user-attachments/files/32319164/Game.Design.Description.pdf)
+
