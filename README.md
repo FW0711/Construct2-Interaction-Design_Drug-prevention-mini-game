@@ -11,7 +11,6 @@ An HTML5 interactive mini-game developed with Construct 2. Click the link below 
 ## 🎬 遊戲演示影片 / Demo Video
 
 <!-- 💡 請直接將 MP4 影片檔案拖曳至下方，GitHub 會自動生成影片代碼 / Drag & drop your MP4 file below -->
-[Game Design Description.pdf](https://github.com/user-attachments/files/32319152/Game.Design.Description.pdf)
 
 
 https://github.com/user-attachments/assets/8839fccc-03cf-462d-ae88-14c15cebd87f
